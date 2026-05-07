@@ -1,0 +1,62 @@
+# Zaragoza
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amplificacion Sismica](https://zaragoza.geotecnia.vip/amplificacion-sismica/)
+- [Asentamiento Diferencial](https://zaragoza.geotecnia.vip/asentamiento-diferencial/)
+- [Asentamientos](https://zaragoza.geotecnia.vip/asentamientos/)
+- [Capacidad De Carga](https://zaragoza.geotecnia.vip/capacidad-de-carga/)
+- [Cbr Vial](https://zaragoza.geotecnia.vip/cbr-vial/)
+- [Cimentaciones](https://zaragoza.geotecnia.vip/cimentaciones/)
+- [Cimentaciones Rellenos](https://zaragoza.geotecnia.vip/cimentaciones-rellenos/)
+- [Cimentaciones Sismicas](https://zaragoza.geotecnia.vip/cimentaciones-sismicas/)
+- [Cimentaciones Superficiales](https://zaragoza.geotecnia.vip/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://zaragoza.geotecnia.vip/clasificacion-suelos/)
+- [Columnas Grava](https://zaragoza.geotecnia.vip/columnas-grava/)
+- [Compactacion Dinamica](https://zaragoza.geotecnia.vip/compactacion-dinamica/)
+- [Compresion Simple](https://zaragoza.geotecnia.vip/compresion-simple/)
+- [Consolidacion](https://zaragoza.geotecnia.vip/consolidacion/)
+- [Corte Directo](https://zaragoza.geotecnia.vip/corte-directo/)
+- [Deep Soil Mixing](https://zaragoza.geotecnia.vip/deep-soil-mixing/)
+- [Densidad Cono Arena](https://zaragoza.geotecnia.vip/densidad-cono-arena/)
+- [Deslizamientos](https://zaragoza.geotecnia.vip/deslizamientos/)
+- [Dilatometro](https://zaragoza.geotecnia.vip/dilatometro/)
+- [Drenaje Vial](https://zaragoza.geotecnia.vip/drenaje-vial/)
+- [Drenes Verticales](https://zaragoza.geotecnia.vip/drenes-verticales/)
+- [Ensayo Cpt](https://zaragoza.geotecnia.vip/ensayo-cpt/)
+- [Ensayo Proctor](https://zaragoza.geotecnia.vip/ensayo-proctor/)
+- [Ensayo Spt](https://zaragoza.geotecnia.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://zaragoza.geotecnia.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://zaragoza.geotecnia.vip/ensayos-in-situ/)
+- [Estabilidad Taludes](https://zaragoza.geotecnia.vip/estabilidad-taludes/)
+- [Estabilizacion Carreteras](https://zaragoza.geotecnia.vip/estabilizacion-carreteras/)
+- [Estabilizacion Taludes](https://zaragoza.geotecnia.vip/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://zaragoza.geotecnia.vip/estudio-mecanica-suelos/)
+- [Excavaciones Profundas](https://zaragoza.geotecnia.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://zaragoza.geotecnia.vip/excavaciones-subterraneas/)
+- [Exploracion](https://zaragoza.geotecnia.vip/exploracion/)
+- [Factor Seguridad](https://zaragoza.geotecnia.vip/factor-seguridad/)
+- [Falla Taludes](https://zaragoza.geotecnia.vip/falla-taludes/)
+- [Flujos Detritos](https://zaragoza.geotecnia.vip/flujos-detritos/)
+- [Geoceldas](https://zaragoza.geotecnia.vip/geoceldas/)
+- [Geofisica](https://zaragoza.geotecnia.vip/geofisica/)
+- [Geomembranas](https://zaragoza.geotecnia.vip/geomembranas/)
+- [Georradar Gpr](https://zaragoza.geotecnia.vip/georradar-gpr/)
+- [Geotecnia Vial](https://zaragoza.geotecnia.vip/geotecnia-vial/)
+- [Geotextiles](https://zaragoza.geotecnia.vip/geotextiles/)
+- [Grouting](https://zaragoza.geotecnia.vip/grouting/)
+- [Instrumentacion Geotecnica](https://zaragoza.geotecnia.vip/instrumentacion-geotecnica/)
+- [Laboratorio](https://zaragoza.geotecnia.vip/laboratorio/)
+- [Mejoramiento](https://zaragoza.geotecnia.vip/mejoramiento/)
+- [Micropilotes](https://zaragoza.geotecnia.vip/micropilotes/)
+- [Microzonificacion Sismica](https://zaragoza.geotecnia.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://zaragoza.geotecnia.vip/monitoreo-excavaciones/)
+- [Monitoreo Taludes](https://zaragoza.geotecnia.vip/monitoreo-taludes/)
+
+## Contact
+- Website: https://zaragoza.geotecnia.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
